@@ -18,6 +18,9 @@
 
 
     </body>
+    <div class="container text-center authorship">
+    Made by Dylan Huang, Harsh Modhera, and Daniel Zhang
+    </div>
     <!-- <form class="text-center" action="assets/php/update.php" method="POST">
       <input type="submit" value="Submit">
     </form> -->
