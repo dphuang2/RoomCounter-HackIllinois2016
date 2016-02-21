@@ -13,7 +13,7 @@
     </head>
     <body>
 
-          <div class="container text-center"><h1>Room Counter</h1><p>This website keeps a live update of room occupancy</p><button class="btn btn-block" id="refresh"> Refresh </button></div>
+          <div class="container text-center"><h1>Automated Room Occupancy Counter</h1><p>This website keeps a live update of room occupancy</p><button class="btn btn-block" id="refresh"> Refresh </button></div>
 <div class="container"><div class="room grainger"><span class="name">Grainger: </span><span class="occupancy">0 </span>people</div><div class="room eceb"><span class="name">ECEB: </span><span class="occupancy">0 </span>people</div><div class="room union"><span class="name">Union: </span><span class="occupancy">0 </span>people</div><div class="room crce"><span class="name">CRCE: </span><span class="occupancy">0 </span>people</div></div>
 
 
