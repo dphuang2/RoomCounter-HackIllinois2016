@@ -1,7 +1,7 @@
 # *Automated Room Occupancy Counter*
 
 This is a github repository for Hack Illinois 2016. <br>
-The site for this project is live at <a> resumepipe.web.engr.illinois.edu </a>.
+The site for this project is live at <a href="http://resumepipe.web.engr.illinois.edu"> resumepipe.web.engr.illinois.edu </a>.
 Total time spent: **18** Hours
 _____________________________________________
 
